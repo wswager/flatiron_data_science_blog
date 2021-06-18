@@ -1,7 +1,7 @@
 # Why I chose Data Science
 
 
-## _Why would I quit my job and take six-months off, driving myself crazy learning a completely new and foreign set of skills to pursue a new career I have zero familiarity with?_
+_Why would I quit my job and take six-months off, driving myself crazy learning a completely new and foreign set of skills to pursue a new career I have zero familiarity with?_
 
 Wes Swager
 
@@ -27,11 +27,11 @@ In this post I will explore:
 # Why I Needed a Change
 
 
-## _‘I have a bad feeling about this’_
+_‘I have a bad feeling about this’_
 
 
 
-*   _Han Solo_
+  _Han Solo_
 
 
 ## Some Background
@@ -92,11 +92,11 @@ I knew that I did not want a life of being unfulfilled and uninspired by my work
 # Why Data Science
 
 
-## _‘It does not do to dwell on dreams and forget to live.’_
+_‘It does not do to dwell on dreams and forget to live.’_
 
 
 
-*   _Dumbledore_
+  _Dumbledore_
 
 
 ## A Second Conversation with Dad
@@ -133,11 +133,11 @@ _*Note - I need to credit my current fiance for pushing me over the edge.  After
 # Where is This Going?
 
 
-## _Exploring strange new worlds…_
+_Exploring strange new worlds…_
 
 
 
-*   _James T. Kirk_
+  _James T. Kirk_
 
 I have never been good at balance, I want to be all in, and I get overwhelmed juggling multiple things in life.  So, I left my job as an insurance agent  to enroll in a full-time bootcamp, diving in head-first, to learn as quickly as possible and start new.
 
