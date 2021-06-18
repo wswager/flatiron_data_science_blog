@@ -67,7 +67,7 @@ After college, I retained my optimism and tried paths towards dreams in soccer o
 
 I became a personal trainer and interned, and was eventually hired at a sports performance clinic, where I worked with high level athletes from high school, college, and occasionally pros.  
 
-After a couple years, II was hired for an entry-level job with a professional women’s soccer team, in ticket-sales.
+After a couple years, I was hired for an entry-level job with a professional women’s soccer team, in ticket-sales.
 
 
 ### Where I Got Lost
@@ -82,7 +82,7 @@ So I took a job in customer service and stopped coaching because I no longer had
 
 Then I got divorced.
 
-The life I had been building for was gone.  And I found myself working remotely  from home during COVID, answering phones all day from people complaining about their insurance, and hating it, but now, I was not doing it for a reason.
+The life I had been building for was gone.  Shortly after, I found myself working remotely  from home during COVID, answering phones all day from people complaining about their insurance, and hating it, but now, I was not doing it for a reason.
 
 I knew that I did not want a life of being unfulfilled and uninspired by my work; I wanted something I cared about.  But I did not know what that was.
 ***
@@ -124,7 +124,7 @@ So my goal was to find a career where I could support a life I was happy with wh
 2. My love of soccer and fitness had lead me to a genuine interest in statistics
 3. One of the fields my dad had suggested I pursue involved a) and b)
 
-_*Note - I need to credit my current fiance for pushing me over the edge.  After years of being told I had to be safe and sensible, I was too scared to let go of what I had and try something new.  She convinced me to take the leap, that we would be ok through it, and better after._
+_*Note - I need to credit my fiance for pushing me over the edge.  After years of being told I had to be safe and sensible, I was too scared to let go of what I had and try something new.  She convinced me to take the leap, that we would be ok through it, and better after._
 
 ***
 ## Where is This Going?
