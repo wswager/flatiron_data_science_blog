@@ -19,21 +19,9 @@ In this post I will explore:
 
 
 
-*   
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Why I Needed a Change"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Why I Needed a Change](#heading=h.dmwsyksr8loe)
-*   
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Why Data Science"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Why Data Science](#heading=h.1qun3v6kezw1)
-*   
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Where is This Going?"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Where is This Going?](#heading=h.yxend0j15dmp)
+*   **Why I Needed a Change**
+*   **Why Data Science**
+*   **Where is This Going?**
 
 
 # Why I Needed a Change
